@@ -1,6 +1,8 @@
 # mnist_practice
 Self-implemented FFN for analysis of MNIST handwriting data
+
 Author: Jason Qin
+
 Last Updated: June 2023
 
 I implement a FFN in NumPy for personal practice. The code for the FFN class is located in `code/ffn.py`. The FFN is constructed with `Layer` objects, which are defined in the `code/layers.py` file. The user can specify the number of layers in the FFN. 
