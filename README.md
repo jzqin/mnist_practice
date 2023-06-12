@@ -12,4 +12,4 @@ Each layer consists of the following operations:
 
 An example of creating and running a model is shown in `jq_ffn_model.ipynb`.
 
-For comparison, I also train a Hugging Face Transformer model to predict MNIST labels from the image data.
+For comparison, I also train a PyTorch Transformer model to predict MNIST labels from the image data.
